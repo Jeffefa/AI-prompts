@@ -11,7 +11,8 @@ Ideal para aprimorar conhecimentos e servir como referência em todos os níveis
 ```
 AI Prompts/
 ├── Cloud Architect and Engineer
-└── Government Agent
+├── Government Agent
+└── Travel Guide Agent
 ```
 
 ### 2. Configure na sua IA
